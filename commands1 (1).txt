@@ -1,0 +1,4 @@
+stats
+list cs111
+list cs151
+quit

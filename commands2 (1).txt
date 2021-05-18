@@ -1,0 +1,4 @@
+process commands1.txt
+enroll cs111 jhummel2
+process commands1.txt
+quit
